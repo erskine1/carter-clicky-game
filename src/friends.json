@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "clicked": false,
+    "name": "Real Carter",
+    "image": "https://vignette.wikia.nocookie.net/stargate/images/5/50/Vlcsnap-2014-03-08-20h22m08s159.png/revision/latest?cb=20140308202428"
+  },
+  {
+    "id": 2,
+    "clicked": false,
+    "name": "alternate Carter (1)",
+    "image": "https://vignette.wikia.nocookie.net/stargate/images/1/18/CarterPhoenix.jpg/revision/latest?cb=20090214184729"
+  },
+  {
+    "id": 3,
+    "clicked": false,
+    "name": "alternate Carter (2)",
+    "image": "https://vignette.wikia.nocookie.net/stargate/images/2/21/Captain_Samantha_Carter_3x06.jpg/revision/latest?cb=20070629030320"
+  },
+  {
+    "id": 4,
+    "clicked": false,
+    "name": "alternate Carter (3)",
+    "image": "https://vignette.wikia.nocookie.net/stargate/images/c/c7/Lieutenant_Colonel_Samantha_Carter_9x13.jpg/revision/latest?cb=20180619180606"
+  },
+  {
+    "id": 5,
+    "clicked": false,
+    "name": "alternate Carter (4)",
+    "image": "https://vignette.wikia.nocookie.net/stargate/images/b/b0/Samantha_Carter_4x16.jpg/revision/latest?cb=20070629030730"
+  },
+  {
+    "id": 6,
+    "clicked": false,
+    "name": "alternate Carter (5)",
+    "image": "https://vignette.wikia.nocookie.net/stargate/images/e/ef/Vlcsnap-2014-03-23-01h43m51s218.png/revision/latest?cb=20140323014433"
+  },
+  {
+    "id": 7,
+    "clicked": false,
+    "name": "alternate Carter (6)",
+    "image": "https://vignette.wikia.nocookie.net/stargate/images/e/e2/CarterUnending.jpg/revision/latest?cb=20141227004646"
+  },
+  {
+    "id": 8,
+    "clicked": false,
+    "name": "alternate Carter (7)",
+    "image": "https://vignette.wikia.nocookie.net/stargate/images/3/38/RiceCereal.jpg/revision/latest?cb=20100102064041"
+  },
+  {
+    "id": 9,
+    "clicked": false,
+    "name": "alternate Carter (8)",
+    "image": "http://www.stargatecaps.com/sg1/s3/306/3x06_0005.jpg"
+  },
+  {
+    "id": 10,
+    "clicked": false,
+    "name": "alternate Carter (9)",
+    "image": "http://www.stargatecaps.com/sg1/s10/1006/shroomy/200th0570.jpg"
+  },
+  {
+    "id": 11,
+    "clicked": false,
+    "name": "alternate Carter (10)",
+    "image": "https://vignette.wikia.nocookie.net/villains/images/4/41/Vlcsnap-2014-07-15-18h29m21s61.png/revision/latest?cb=20140715173921"
+  },
+  {
+    "id": 12,
+    "clicked": false,
+    "name": "alternate Carter (11)",
+    "image": "http://www.stargatecaps.com/sg1/s4/410/4x10_0004.jpg"
+  }
+]

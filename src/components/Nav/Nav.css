@@ -1,0 +1,9 @@
+.nav-item {
+  color: #fff;
+}
+
+.navbar .navbar-brand, .nav-item {
+  display: inline-block;
+  width: 33.33%;
+  text-align: center;
+}
